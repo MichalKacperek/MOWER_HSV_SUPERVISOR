@@ -1,0 +1,4 @@
+../Core/Src/main.c:80:5:main	24	static
+../Core/Src/main.c:333:19:EngineHandler	16	static
+../Core/Src/main.c:357:6:HAL_HSEM_FreeCallback	24	static
+../Core/Src/main.c:387:6:Error_Handler	4	static,ignoring_inline_asm
